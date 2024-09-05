@@ -68,3 +68,40 @@ Please see [CONTRIBUTING.MD](https://github.com/ERC-3643/ERC-3643-DApp/blob/main
 ---
 # ERC-3643-V1
 # ERC-3643_V1
+
+1.listing accounts  in root directory
+```
+yarn chain
+```
+
+
+
+2.new terminal in root directory
+```
+yarn deploy
+```
+
+
+or 
+
+go to hardhat directory in packges and run node and deploy
+```
+npx hardhat node 
+```
+another terminal 
+```
+npx hardhat run scripts/updateDeployedContracts.ts --network localhost
+```
+
+
+run the Server 
+```
+ts-node server.ts
+```
+start dapp
+
+```
+yarn start
+```
+
+
