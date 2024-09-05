@@ -69,7 +69,7 @@ Please see [CONTRIBUTING.MD](https://github.com/ERC-3643/ERC-3643-DApp/blob/main
 # ERC-3643-V1
 # ERC-3643_V1
 
-1.listing accounts  in root directory
+1.running node accounts  in root directory
 ```
 yarn chain
 ```
