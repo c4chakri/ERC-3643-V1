@@ -67,14 +67,11 @@ Please see [CONTRIBUTING.MD](https://github.com/ERC-3643/ERC-3643-DApp/blob/main
 
 ---
 # ERC-3643-V1
-# ERC-3643_V1
 
 1.running node accounts  in root directory
 ```
 yarn chain
 ```
-
-
 
 2.new terminal in root directory
 ```
